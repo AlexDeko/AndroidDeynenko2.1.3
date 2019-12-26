@@ -1,9 +1,10 @@
 <resources>
     <string name="app_name">AndroidDeynenko2.1.3</string>
     <string name="ok_btn">Ок</string>
-    <string name="date_start_btn">Дата-время старта задачи:</string>
-    <string name="date_end_btn">Дата-время окончания задачи:</string>
+
+    <string name="date_end_btn_placeholder">Дата-время окончания задачи: %s</string>
     <string name="endTask">окончание:</string>
     <string name="error">ошибка</string>
     <string name="startTask">старт:</string>
+    <string name="date_start_button_placeholder">Дата-время старта задачи: %s</string>
 </resources>
